@@ -1,2 +1,2 @@
 # dsa-with-cpp
-My journey of learning Data Structures &amp; Algorithms using C++. Documenting concepts, problem-solving approaches, and coding practice.
+Learning Data Structures & Algorithms using C++. Documenting concepts, problem-solving approaches, and coding practice while building a strong foundation in Computer Science.
